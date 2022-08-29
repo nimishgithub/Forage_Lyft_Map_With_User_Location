@@ -1,4 +1,4 @@
-# Forage_Lyft_Map_With_User_Location
+# Forage_Lyft_RideSharer
 
 1. Open the RideSharer.xcodeproj file in the RideSharer_Map_Start folder.
  
